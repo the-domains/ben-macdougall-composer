@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ben MacDougall - Composer]]></title>
+        <description><![CDATA[Ben MacDougall - Composer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Jan 2016 02:46:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p> I write music for film, TV & games in Santa Monica, CA. You may have already heard my work on the BBC, NBC, Channel 4, the Discovery Channel the Tennis Channel and elsewhere. I am also the composer for Duelyst, an awesome multiplayer strategy game set in a fantastical (and beautiful) world, and write music for Bremont, a luxury British watchmaker.
+
+Apart from an early ambition to become either a wizard or a marine biologist, music has always been my thing. I am also a professional flute player, trained at the Royal College of Music in London (in both flute & composition), and spent seven years presenting & producing a specialist music radio show for the BBC.
+
+Contact me for a full resume. Or hit the buttons below to check out some music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b1408fc44a6e9a9d092e5f38d66d711494f4a0e.jpg"></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">7b94f5b1-5140-4731-9d11-443dba4785c6</guid>
+            <pubDate>Sun, 03 Jan 2016 02:46:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
